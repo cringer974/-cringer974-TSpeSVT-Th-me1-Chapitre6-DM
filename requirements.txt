@@ -7,5 +7,3 @@ xlrd
 numpy
 
 seaborn
-
-math
