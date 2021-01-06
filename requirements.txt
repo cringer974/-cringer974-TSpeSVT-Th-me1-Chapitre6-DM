@@ -4,6 +4,8 @@ matplotlib
 
 xlrd
 
+openpyxl
+
 numpy
 
 seaborn
